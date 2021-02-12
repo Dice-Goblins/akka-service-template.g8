@@ -1,0 +1,1 @@
+# akka-service-template.g8
